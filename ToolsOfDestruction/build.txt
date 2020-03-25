@@ -1,0 +1,4 @@
+displayName = [i:3456][c/8ae639:Tools of Destruction][i:3456]
+author = Minespeed, Mayhemm
+version = 0.2
+homepage = https://discord.gg/ArwaGAg
